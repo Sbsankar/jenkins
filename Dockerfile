@@ -1,1 +1,3 @@
-Hello, Sb sankar
+FROM ubuntu:latest
+CMD echo "Hello, World!"
+
